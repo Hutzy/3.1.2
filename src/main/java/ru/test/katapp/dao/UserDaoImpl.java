@@ -1,4 +1,4 @@
-package ru.test.katapp.DAO;
+package ru.test.katapp.dao;
 
 import org.springframework.stereotype.Component;
 import ru.test.katapp.model.User;
